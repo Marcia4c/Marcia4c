@@ -4,7 +4,7 @@
     <br> </br>
 </p>
 
-# Welcome, I'm Márcia Rodrigues! 
+# Welcome, I'm Marcia Rodrigues! 
 
 ## About Me 
 
