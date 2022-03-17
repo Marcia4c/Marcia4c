@@ -1,6 +1,6 @@
-# Márcia Rodrigues
+# Marcia Rodrigues
 <p>
-    <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="20%" alt="Gatos codando loucamente" align="left"/>
+    <img src="https://ichi.pro/assets/images/max/724/1*yRnkMBlX0p4kZhhOIpVujA.gif" width="15%" alt="Mãos digitando" align="left"/>
     <br> </br>
 </p>
 
@@ -8,9 +8,13 @@
 
 ## About Me 
 
-I'm  Web Developer in training, Financial Market enthusiast, curious, I love learning new tools and everything that can optimize my work. I Love 🐈, and 🐕  <b/> in fact, all animals 🐾  <b/>! I love traveling and I love nature! <b/> 🌴
+<p>I am a student in fullstak training. An accountant by training and in 2022 I started my career transition to the world of technology.
 
-Supporter of the DevOps Culture with an interest in going deeper into more Technology topics: Infrastructure, Data and whatever else is out there. Always looking to improve knowledge and skills through courses, projects and eager to learn!
+I'm excited about what I'm learning every day, always willing to learn new and challenging things that help me to evolve professionally personally.
+
+I'm an amateur street racing athlete and between one code and another I'm on the streets chasing, literally, what I love and makes me happy.
+
+Here I will show what I have been learning and exchange experiences with Web Developers </p>
 
 ---
 ### GitHub Stats and Most Used Languages
@@ -34,6 +38,4 @@ Supporter of the DevOps Culture with an interest in going deeper into more Techn
   
 ## Follow me
 
-[![Linkedin Nadyédja Luna](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nadyluna/)](https://www.linkedin.com/in/nadyluna/)
-[![Telegram: nady_luna](https://img.shields.io/badge/-Telegram-white?style=flat-square&logo=Telegram&logoColor=blue&link=https://t.me/nady_luna)](https:https://t.me/nady_luna)
-[![Twitter: Nady Luna](https://img.shields.io/twitter/follow/NadyKelayne?style=social)](https://twitter.com/NadyKelayne)
+[![Linkedin Márcia Rodrigues](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://https://www.linkedin.com/in/m%C3%A1rcia-rodrigues-85756055/)](https://www.linkedin.com/in//márcia-rodrigues-85756055/)
