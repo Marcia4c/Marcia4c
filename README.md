@@ -1,6 +1,6 @@
 # Marcia Rodrigues
 <p>
-    <img src="https://ichi.pro/assets/images/max/724/1*yRnkMBlX0p4kZhhOIpVujA.gif" width="15%" alt="Mãos digitando" align="left"/>
+    <img src="logo.png.gif" width="15%" alt="Mãos digitando" align="left"/>
     <br> </br>
 </p>
 
