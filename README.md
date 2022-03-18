@@ -1,10 +1,10 @@
-# Marcia Rodrigues
+# Márcia Rodrigues
 <p>
-    <img src="logo.png.gif" width="15%" alt="Mãos digitando" align="left"/>
-    <br> </br>
+  <img src="logo.png.gif" width="15%" alt="Mãos digitando" align="left"/>
+  <br> </br>
 </p>
 
-# Welcome, I'm Marcia Rodrigues! 
+# Welcome, I'm Márcia Rodrigues! 
 
 ## About Me 
 
